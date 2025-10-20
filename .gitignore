@@ -1,6 +1,6 @@
 # Ignore sensitive configuration files
-config.py
-insert_admin.py
+config_real.py
+insert_admin_real.py
 
 # Python cache
 __pycache__/
